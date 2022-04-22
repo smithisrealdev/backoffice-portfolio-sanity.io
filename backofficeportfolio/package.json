@@ -13,6 +13,7 @@
   "keywords": [
     "sanity"
   ],
+  
   "dependencies": {
     "@sanity/base": "^2.29.5",
     "@sanity/core": "^2.29.5",
